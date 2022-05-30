@@ -1,4 +1,4 @@
-# WpfDestkopApplicationAliArtuc
+# WpfDesktopApplicationAliArtuc
 
 20703041 Ali Artuç BST206
 
